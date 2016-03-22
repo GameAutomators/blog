@@ -1,4 +1,4 @@
-title:            Game Automators
+title:            Game Automators Blog
 description:      "Blogging is fun"
 logo:             logo.png
 disqus_shortname: hmfaysal
@@ -71,7 +71,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://gameautomators.com/blog/'
+  siteurl: 'http://gameautomators.com/blog'
   relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:

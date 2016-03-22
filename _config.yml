@@ -53,7 +53,7 @@ paginate:    5
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:title
 
 kramdown:
   auto_ids: true
@@ -71,7 +71,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://gameautomators.github.io/blog/'
+  siteurl: 'http://gameautomators.com/blog/'
   relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:

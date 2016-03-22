@@ -13,9 +13,9 @@ comments: true
 featured: false
 ---
 
-I organised the a winter internship at Innovation Garage, NIT Warangal to get students to work on solving new games. This was the rise of the [Game Automators](http://gameautomators.com).
+We organised the a winter internship at Innovation Garage, NIT Warangal to get students to work on solving new games. This was the rise of the [Game Automators](http://gameautomators.com).
 
-I'm attaching two videos that sum up what happened.
+The two videos that sum up what happened are attached below.
 
 ------
 

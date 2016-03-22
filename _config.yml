@@ -1,7 +1,7 @@
 title:            Game Automators Blog
 description:      "Learn to automate games."
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: 
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.

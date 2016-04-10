@@ -5,7 +5,7 @@ description:
 headline: 
 modified: 2015-12-15
 category: GameAutomators
-tags: [jekyll]
+tags: [internship, nit warangal]
 imagefeature: 
 mathjax: 
 chart: 

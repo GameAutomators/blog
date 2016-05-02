@@ -13,7 +13,7 @@ comments: true
 featured: false
 ---
 
-Game Automators organised a workshop at NIT Warangal to train 30 students on how to build mobile game solvers. The workshop went well, and we received really good feedback from the students. These students are potential contributors who will help improve the quality of the book that we are working on.
+Game Automators organised a workshop at NIT Warangal to train 30 students on how to build mobile game solvers. The workshop went well, and received really good feedback from the students. These students are potential contributors who will help improve the quality of the book that we are working on.
 
 The workshop started off with Surya introducing what the goal of Game Automators is, and how each one of them could be contributors to reach that goal. 
 
